@@ -1,0 +1,20 @@
+{
+  "name": "video-75-dance-website",
+  "version": "1.0.0",
+  "description": "This is a website for popular dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ansari Bhai",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.4",
+    "parser": "^0.1.4",
+    "pug": "^3.0.3",
+    "video-75-dance-website": "file:"
+  }
+}
